@@ -1,0 +1,14 @@
+2023-03-31 19:29:46,451 - air_customs - INFO - New entry {'name': 'Messi', 'date': '2023-03-26', 'type': 'air'}
+2023-03-31 19:29:46,451 - air_customs - INFO - New entry {'name': 'Mbappe', 'date': '2023-03-24', 'type': 'air'}
+2023-03-31 19:33:03,991 - air_customs - INFO - New entry {'name': 'Messi', 'date': '2023-03-26', 'type': 'air'}
+2023-03-31 19:33:03,991 - air_customs - INFO - New entry {'name': 'Mbappe', 'date': '2023-03-24', 'type': 'air'}
+2023-03-31 19:33:26,496 - air_customs - INFO - New entry {'name': 'Messi', 'date': '2023-03-26', 'type': 'air'}
+2023-03-31 19:33:26,502 - air_customs - INFO - New entry {'name': 'Mbappe', 'date': '2023-03-24', 'type': 'air'}
+2023-03-31 19:36:19,352 - air_customs - INFO - New entry {'name': 'Messi', 'date': '2023-03-26', 'type': 'air'}
+2023-03-31 19:36:19,352 - air_customs - INFO - New entry {'name': 'Mbappe', 'date': '2023-03-24', 'type': 'air'}
+2023-03-31 19:37:26,676 - air_customs - INFO - New entry {'name': 'Messi', 'date': '2023-03-26', 'type': 'air'}
+2023-03-31 19:37:26,676 - air_customs - INFO - New entry {'name': 'Mbappe', 'date': '2023-03-24', 'type': 'air'}
+2023-03-31 19:38:21,894 - air_customs - INFO - New entry {'name': 'Messi', 'date': '2023-03-26', 'type': 'air'}
+2023-03-31 19:38:21,894 - air_customs - INFO - New entry {'name': 'Mbappe', 'date': '2023-03-24', 'type': 'air'}
+2023-03-31 19:40:04,577 - air_customs - INFO - New entry {'name': 'Messi', 'date': '2023-03-26', 'type': 'air'}
+2023-03-31 19:40:04,577 - air_customs - INFO - New entry {'name': 'Mbappe', 'date': '2023-03-24', 'type': 'air'}
